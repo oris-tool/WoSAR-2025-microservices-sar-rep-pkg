@@ -1,0 +1,25 @@
+# Ignore experiment results directory
+experiment-results/
+
+# Java compiled files
+*.class
+
+# Maven build directory
+target/
+
+# IDE and editor files
+*.iml
+*.idea
+*.vscode
+*.editorconfig
+
+# Log files
+*.log
+
+# Generated LaTeX and image files
+*.tex
+*.png
+
+# OS generated files
+.DS_Store
+Thumbs.db
