@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1023577547.svg)](https://doi.org/10.5281/zenodo.16861052)
+
 # Quantitative Modeling and Evaluation of Software Aging and Rejuvenation in Microservices
 
 This repository is a companion page for the following publication  accepted to the 17th International Workshop on Software Aging and Rejuvenation ([WoSAR 2025](https://www.wosar.net/)):
